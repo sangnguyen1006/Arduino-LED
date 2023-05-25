@@ -10,5 +10,5 @@ Program the flash to turn off from 3 or more modes and use both buttons to switc
 order of the modes (for example, each time sw1 is pressed, the light changes from mode 1 
 -> mode 2 -> mode 3, each time sw2 is pressed, it switches from mode 3 -> mode 2 -> mode1).
 
-## Task 3] 
+## [Task 3] 
 Programming when changing the value of the rheostat will change the blinking speed of the leds.
